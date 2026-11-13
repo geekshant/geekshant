@@ -31,7 +31,7 @@ Student developer who likes building things that go deep — from encrypted peer
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.herokuapp.com/?user=geekshant&theme=radical&hide_border=true&border_radius=16" alt="GitHub streak" width="480"/>
+  <img src="https://streak-stats.demolab.com/?user=geekshant&theme=radical&hide_border=true&border_radius=16" alt="GitHub streak" width="480"/>
 </p>
 
 ---
@@ -52,38 +52,26 @@ Student developer who likes building things that go deep — from encrypted peer
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-
-#### 🦀 [Esero](https://github.com/geekshant/Esero)
-> Heterogeneous Resource Network — trade spare RAM across machines over encrypted QUIC channels with mutual TLS.
-
-`Rust` `QUIC` `mTLS` `Protobuf`
-
+      <h4>🦀 <a href="https://github.com/geekshant/Esero">Esero</a></h4>
+      <p>Heterogeneous Resource Network — trade spare RAM across machines over encrypted QUIC channels with mutual TLS.</p>
+      <p><code>Rust</code> <code>QUIC</code> <code>mTLS</code> <code>Protobuf</code></p>
     </td>
     <td width="50%" valign="top">
-
-#### 🏛️ [JanMitra](https://github.com/geekshant/JanSeva)
-> Gamified civic complaint & municipal governance platform for Bhopal — report, track, and fix city problems.
-
-`Flutter` `React` `Supabase` `Mapbox`
-
+      <h4>🏛️ <a href="https://github.com/geekshant/JanSeva">JanMitra</a></h4>
+      <p>Gamified civic complaint &amp; municipal governance platform for Bhopal — report, track, and fix city problems.</p>
+      <p><code>Flutter</code> <code>React</code> <code>Supabase</code> <code>Mapbox</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-#### 🚀 [OwnSpace](https://github.com/geekshant/OwnSpace)
-> Full-stack workspace product with auth, billing, and an embedded code editor.
-
-`Next.js` `Prisma` `TypeScript` `Vitest`
-
+      <h4>🚀 <a href="https://github.com/geekshant/OwnSpace">OwnSpace</a></h4>
+      <p>Full-stack workspace product with auth, billing, and an embedded code editor.</p>
+      <p><code>Next.js</code> <code>Prisma</code> <code>TypeScript</code> <code>Vitest</code></p>
     </td>
     <td width="50%" valign="top">
-
-#### 🌐 [portfolio](https://github.com/geekshant/portfolio)
-> Personal portfolio site with a terminal-inspired design.
-
-`Vite` `JavaScript`
-
+      <h4>🌐 <a href="https://github.com/geekshant/portfolio">portfolio</a></h4>
+      <p>Personal portfolio site with a terminal-inspired design.</p>
+      <p><code>Vite</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
