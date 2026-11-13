@@ -19,7 +19,8 @@ jobs:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_login: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: geekshant
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake.svg?color_snake=%23bd93f9&color_dots=%236e40c9,%239055ff,%23c4b5fd
 
