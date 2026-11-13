@@ -26,8 +26,8 @@ Student developer who likes building things that go deep — from encrypted peer
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geekshant&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=16" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekshant&layout=compact&theme=radical&hide_border=true&border_radius=16" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geekshant&theme=radical" alt="GitHub stats" width="340"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geekshant&theme=radical" alt="Repos per language" width="340"/>
 </p>
 
 <p align="center">
@@ -77,10 +77,6 @@ Student developer who likes building things that go deep — from encrypted peer
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geekshant&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geekshant&color=bd93f9" alt="Profile views"/>
