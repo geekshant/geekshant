@@ -1,0 +1,37 @@
+name: Contribution heatmap
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution SVGs
+        uses: HowardZlh/github-action-shares@b68202d371094b0f495f40426cc2a9a0c65fb3d7
+        with:
+          command: art
+          source: user
+          target: geekshant
+          label: contributions
+          out-dir: dist
+
+      - name: Keep only the heatmap
+        run: rm -f dist/snake*.svg dist/activity*.svg
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git diff --cached --quiet || git commit -m "chore: refresh contribution heatmap [skip ci]"
+          git push
