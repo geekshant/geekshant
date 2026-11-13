@@ -36,6 +36,18 @@ Student developer who likes building things that go deep — from encrypted peer
 
 ---
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geekshant/geekshant/main/dist/snake.svg" alt="Snake eating contributions" width="900"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/geekshant" alt="Last year's contribution chart" height="80"/>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
