@@ -23,7 +23,14 @@ Student developer who likes building things that go deep — from encrypted peer
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekshant/geekshant/main/dist/heatmap-dark.svg">
+    <img src="https://raw.githubusercontent.com/geekshant/geekshant/main/dist/heatmap.svg" alt="Animated contribution heatmap" width="950"/>
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geekshant&theme=radical" alt="GitHub stats" width="340"/>
@@ -32,18 +39,6 @@ Student developer who likes building things that go deep — from encrypted peer
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=geekshant&theme=radical&hide_border=true&border_radius=16" alt="GitHub streak" width="480"/>
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/geekshant/geekshant/main/dist/snake.svg" alt="Snake eating contributions" width="900"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/geekshant" alt="Last year's contribution chart" height="80"/>
 </p>
 
 ---
